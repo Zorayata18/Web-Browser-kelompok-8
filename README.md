@@ -1,9 +1,9 @@
 Kelompok 8:
 
-Lois Danuarto (5302422002)
-Ayu Apriliani (5302422023)
-Nisa Afifa Azzahra (5302422024)
-Vivit Lestari (5302422032)
+1. Lois Danuarto (5302422002)
+2. Ayu Apriliani (5302422023)
+3. Nisa Afifa Azzahra (5302422024)
+4. Vivit Lestari (5302422032)
 
 ### Web Browser App menggunakan Python PyQt5
 
@@ -36,7 +36,7 @@ Proyek ini merupakan aplikasi peramban web sederhana yang dibangun menggunakan P
 
 #### Diagram Sequence
 
-![Diagram Sequence]()
+![Diagram Sequence](https://github.com/Zorayata18/Web-Browser-kelompok-8/blob/main/sequence%20diagram.drawio.png)
 
 
 ### Struktur Proyek
