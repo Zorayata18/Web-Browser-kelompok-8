@@ -36,7 +36,7 @@ Proyek ini merupakan aplikasi peramban web sederhana yang dibangun menggunakan P
 
 #### Diagram Sequence
 
-![Diagram Sequence](https://github.com/Zorayata18/Web-Browser-kelompok-8/blob/main/diagramsequencefix.png)
+![Diagram Sequence]()
 
 
 ### Struktur Proyek
